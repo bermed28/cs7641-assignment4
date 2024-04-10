@@ -38,14 +38,12 @@ $ source venv/bin/activate
 $ pip install -r requirements.txt
 ```
 
-### Run Scripts
-
-#### Optimization Problems using Randomized Optimization Algorithms
+### Run Script
 
 Open up `main.py` in VS Code (or your preferred editor), select your virtual environment (in this example `myenv`) run:
 
 ```shell
-python3 main.py
+$ python3 main.py
 ```
 
 You should see an output like this if you leave everything as default in the codebase:
